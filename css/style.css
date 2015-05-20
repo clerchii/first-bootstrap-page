@@ -1,0 +1,56 @@
+.jumbotron {
+	background-image: url('../images/Untitled-1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	min-height: 350px;
+	margin-bottom: 0px;
+	color: #2a6496;
+
+}
+
+.alt1 {
+	background: #eee;
+	min-height: 250px;
+}
+
+.alt2 {
+	background: #333;
+	min-height: 65px;
+	color: #fff;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.padding {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.google-plus a {
+	color: #d43f3a;
+}
+
+.google-plus a:hover {
+	color: #d9534f;
+}
+
+.twitter a{
+	color: #40bff5;
+}
+
+.twitter a:hover {
+	color: #1cb0db;
+}
+
+.facebook a{
+	color: #2a6496;
+}
+
+.facebook a:hover {
+	color: #428bca;
+}
+
+.fa-2x {
+	font-size: 2.6em;
+}
