@@ -1,0 +1,5 @@
+===== READ ME
+A simple web page built with HTML, CSS and Bootstrap.
+Just download and run the index.html with your browser.
+
+Have a nice day! :)
